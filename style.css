@@ -1,0 +1,11 @@
+canvas{
+    border-width: 2;
+    border-color: black;
+    border-style: solid;
+    margin-top: 50;
+}
+
+body{
+    background-image: url("https://img.tukuppt.com/ad_preview/00/19/38/5f07deda88ee8.jpg!/fw/780");
+    background-size: cover;
+}
